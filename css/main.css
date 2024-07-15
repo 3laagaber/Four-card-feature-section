@@ -22,10 +22,10 @@ p{
     font-size: 15px;
 }
 .text p,
-.text h4:first-child{
+.text h1:first-child{
     color: var(--Grayish-Blue);
 }
-.text h4:not(:first-child){
+.text h1:not(:first-child){
     color:var(--Very-Dark-Blue);
     font-weight: 600;
 } 
