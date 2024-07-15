@@ -19,7 +19,7 @@ body{
     background-color: var(--Very-Light-Gray);
 }
 p{
-    font-size: 12px;
+    font-size: 15px;
 }
 .text p,
 .text h4:first-child{
@@ -38,6 +38,7 @@ p{
     flex-direction: column;
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(71, 71, 71, 0.2), 0 6px 20px 0 rgba(34, 34, 34, 0.19);
+    max-width:300px;
 }
 .one p,
 .two p,
